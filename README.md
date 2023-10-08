@@ -1,3 +1,3 @@
 # ApiCall
 
-<img src="public/assets/ApiCall.png">
+<img src="./image/public/assets/ApiCall.png">
